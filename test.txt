@@ -1,0 +1,17 @@
+As I was going to St. Ives
+I met a man with seven wives
+Every wife had seven sacks
+Every sack had seven cats
+Every cat had seven kits
+Kits, cats, sacks, wives.
+How many were going to St. Ives?
+
+Refactor wordcount.py to break up your code into functions. Be strategic and considerate with
+ how you decide to break up your code.
+
+
+When designing functions, your goal will be to create ones that are easy for other developers
+ to use. If you break your code up into too many functions, it’ll be hard for someone to figure 
+ out how they all relate to each other. If you don’t have enough functions, then you risk 
+ creating gigantic, mega-functions that will also be difficult to understand.
+ 
